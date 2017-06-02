@@ -17,7 +17,7 @@ X = one_hot_encoder.fit_transform(X).toarray()
 
 X = X[:, 1:]  # avoid dummy variable trap
 
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)
 
 from sklearn.linear_model import LinearRegression

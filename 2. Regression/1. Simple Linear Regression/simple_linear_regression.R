@@ -13,21 +13,21 @@ y_pred = predict(regressor, newdata = test_set)
 
 # install.packages('ggplot2')
 library(ggplot2)
-ggplot() +
-  geom_point(aes(x = training_set$YearsExperience, y = training_set$Salary),
-             colour = 'red') +
-  geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
-            colour = 'blue') +
-  ggtitle('Salary vs Experience (Training set)') +
-  xlab('Years of experience') +
-  ylab('Salary')
 
-library(ggplot2)
-ggplot() +
-  geom_point(aes(x = test_set$YearsExperience, y = test_set$Salary),
-             colour = 'red') +
-  geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
-            colour = 'blue') +
-  ggtitle('Salary vs Experience (Test set)') +
-  xlab('Years of experience') +
-  ylab('Salary')
+visualize_result <- function(X, y, title, xlabel, ylabel){
+  ggplot() +
+    geom_point(aes(x = X, y = y),
+              colour = 'red') +
+    geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
+              colour = 'blue') +
+    ggtitle(title) +
+    xlab(xlabel) +
+    ylab(ylabel)
+}
+
+simple_linear_regression_visualization <- function(X, y){
+  visualize_result(X, y, 'Salary vs Experience', 'Years of experience', 'Salary')
+}
+
+visualize_result(training_set$YearsExperience, training_set$Salary)
+visualize_result(test_set$YearsExperience, test_set$Salary)
