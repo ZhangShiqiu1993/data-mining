@@ -9,9 +9,9 @@
   - [x] Random Forest Regression
 - [ ] Classification
   - [x] Logistic Regression
-  - [ ] K-NearestNeighbors
-  - [ ] Support Vector Machine
-  - [ ] Kernel SVM
+  - [x] K-Nearest Neighbors
+  - [x] Support Vector Machine
+  - [x] Kernel SVM
   - [ ] Naive Bayes
   - [ ] Decision Tree Classification
   - [ ] Random Forest Classification
