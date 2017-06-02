@@ -12,7 +12,7 @@
   - [x] K-Nearest Neighbors
   - [x] Support Vector Machine
   - [x] Kernel SVM
-  - [ ] Naive Bayes
+  - [x] Naive Bayes
   - [ ] Decision Tree Classification
   - [ ] Random Forest Classification
 - [ ] Clustering
