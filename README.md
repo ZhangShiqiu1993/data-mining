@@ -13,8 +13,8 @@
   - [x] Support Vector Machine
   - [x] Kernel SVM
   - [x] Naive Bayes
-  - [ ] Decision Tree Classification
-  - [ ] Random Forest Classification
+  - [x] Decision Tree Classification
+  - [x] Random Forest Classification
 - [ ] Clustering
   - [ ] K-Means Clustering
   - [ ] Hierarchical Clustering
