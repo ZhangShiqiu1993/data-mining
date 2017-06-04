@@ -7,7 +7,7 @@
   - [x] Support Vector Regression (SVR)
   - [x] Decision Tree Regression
   - [x] Random Forest Regression
-- [ ] Classification
+- [x] Classification
   - [x] Logistic Regression
   - [x] K-Nearest Neighbors
   - [x] Support Vector Machine
@@ -18,6 +18,23 @@
 - [ ] Clustering
   - [ ] K-Means Clustering
   - [ ] Hierarchical Clustering
+- [ ] Association Rule Learning
+  - [ ] Apriori
+  - [ ] Eclat
+- [ ] Reinforcement Learning
+  - [ ] Upper Confidence Bound (UCB)
+  - [ ] Thompson Sampling
+- [ ] Natural Language Processing
+- [ ] Deep Learning
+  - [ ] Artificial Neural Networks (ANN)
+  - [ ] Convolutional Neural Networks (CNN)
+- [ ] Dimensionality Reduction
+  - [ ] Principal Component Analysis (PCA)
+  - [ ] Linear Discriminant Analysis (LDA)
+  - [ ] Kernel PCA
+- [ ] Model Selection
+  - [ ] Model Selection
+  - [ ] XGBoost
 
 
 ---
