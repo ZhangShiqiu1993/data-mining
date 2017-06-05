@@ -15,9 +15,9 @@
   - [x] Naive Bayes
   - [x] Decision Tree Classification
   - [x] Random Forest Classification
-- [ ] Clustering
-  - [ ] K-Means Clustering
-  - [ ] Hierarchical Clustering
+- [x] Clustering
+  - [x] K-Means Clustering
+  - [x] Hierarchical Clustering
 - [ ] Association Rule Learning
   - [ ] Apriori
   - [ ] Eclat
