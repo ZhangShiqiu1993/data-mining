@@ -18,9 +18,9 @@
 - [x] Clustering
   - [x] K-Means Clustering
   - [x] Hierarchical Clustering
-- [ ] Association Rule Learning
-  - [ ] Apriori
-  - [ ] Eclat
+- [x] Association Rule Learning
+  - [x] Apriori
+  - [x] Eclat
 - [ ] Reinforcement Learning
   - [ ] Upper Confidence Bound (UCB)
   - [ ] Thompson Sampling
