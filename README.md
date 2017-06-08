@@ -22,7 +22,7 @@
   - [x] Apriori
   - [x] Eclat
 - [ ] Reinforcement Learning
-  - [ ] Upper Confidence Bound (UCB)
+  - [x] Upper Confidence Bound (UCB)
   - [ ] Thompson Sampling
 - [ ] Natural Language Processing
 - [ ] Deep Learning
