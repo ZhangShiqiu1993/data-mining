@@ -23,7 +23,7 @@
   - [x] Eclat
 - [ ] Reinforcement Learning
   - [x] Upper Confidence Bound (UCB)
-  - [ ] Thompson Sampling
+  - [x] Thompson Sampling
 - [ ] Natural Language Processing
 - [ ] Deep Learning
   - [ ] Artificial Neural Networks (ANN)
