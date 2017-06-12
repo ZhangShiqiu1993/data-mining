@@ -18,7 +18,7 @@
 - [x] Clustering
   - [x] K-Means Clustering
   - [x] Hierarchical Clustering
-- [ ] Association Rule Learning
+- [x] Association Rule Learning
   - [x] Apriori
   - [x] Eclat
 - [ ] Reinforcement Learning
