@@ -21,7 +21,7 @@
 - [x] Association Rule Learning
   - [x] Apriori
   - [x] Eclat
-- [ ] Reinforcement Learning
+- [x] Reinforcement Learning
   - [x] Upper Confidence Bound (UCB)
   - [x] Thompson Sampling
 - [ ] Natural Language Processing
