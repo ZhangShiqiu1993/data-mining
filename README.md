@@ -24,7 +24,7 @@
 - [x] Reinforcement Learning
   - [x] Upper Confidence Bound (UCB)
   - [x] Thompson Sampling
-- [ ] Natural Language Processing
+- [x] Natural Language Processing
 - [ ] Deep Learning
   - [ ] Artificial Neural Networks (ANN)
   - [ ] Convolutional Neural Networks (CNN)
