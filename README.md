@@ -26,7 +26,7 @@
   - [x] Thompson Sampling
 - [x] Natural Language Processing
 - [ ] Deep Learning
-  - [ ] Artificial Neural Networks (ANN)
+  - [x] Artificial Neural Networks (ANN)
   - [ ] Convolutional Neural Networks (CNN)
 - [ ] Dimensionality Reduction
   - [ ] Principal Component Analysis (PCA)
