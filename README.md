@@ -25,9 +25,9 @@
   - [x] Upper Confidence Bound (UCB)
   - [x] Thompson Sampling
 - [x] Natural Language Processing
-- [ ] Deep Learning
+- [x] Deep Learning
   - [x] Artificial Neural Networks (ANN)
-  - [ ] Convolutional Neural Networks (CNN)
+  - [x] Convolutional Neural Networks (CNN)
 - [ ] Dimensionality Reduction
   - [ ] Principal Component Analysis (PCA)
   - [ ] Linear Discriminant Analysis (LDA)
