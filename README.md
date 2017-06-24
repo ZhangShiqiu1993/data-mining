@@ -30,8 +30,8 @@
   - [x] Convolutional Neural Networks (CNN)
 - [ ] Dimensionality Reduction
   - [x] Principal Component Analysis (PCA)
-  - [ ] Linear Discriminant Analysis (LDA)
-  - [ ] Kernel PCA
+  - [x] Linear Discriminant Analysis (LDA)
+  - [x] Kernel PCA
 - [ ] Model Selection
   - [ ] K Fold Cross Validation
   - [ ] Grid Search
