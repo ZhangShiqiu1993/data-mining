@@ -29,11 +29,12 @@
   - [x] Artificial Neural Networks (ANN)
   - [x] Convolutional Neural Networks (CNN)
 - [ ] Dimensionality Reduction
-  - [ ] Principal Component Analysis (PCA)
+  - [x] Principal Component Analysis (PCA)
   - [ ] Linear Discriminant Analysis (LDA)
   - [ ] Kernel PCA
 - [ ] Model Selection
-  - [ ] Model Selection
+  - [ ] K Fold Cross Validation
+  - [ ] Grid Search
   - [ ] XGBoost
 
 
