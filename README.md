@@ -33,7 +33,7 @@
   - [x] Linear Discriminant Analysis (LDA)
   - [x] Kernel PCA
 - [ ] Model Selection
-  - [ ] K Fold Cross Validation
+  - [x] K Fold Cross Validation
   - [ ] Grid Search
   - [ ] XGBoost
 
