@@ -28,7 +28,7 @@
 - [x] Deep Learning
   - [x] Artificial Neural Networks (ANN)
   - [x] Convolutional Neural Networks (CNN)
-- [ ] Dimensionality Reduction
+- [x] Dimensionality Reduction
   - [x] Principal Component Analysis (PCA)
   - [x] Linear Discriminant Analysis (LDA)
   - [x] Kernel PCA
