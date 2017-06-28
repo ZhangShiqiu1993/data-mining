@@ -32,10 +32,10 @@
   - [x] Principal Component Analysis (PCA)
   - [x] Linear Discriminant Analysis (LDA)
   - [x] Kernel PCA
-- [ ] Model Selection
+- [x] Model Selection
   - [x] K Fold Cross Validation
-  - [ ] Grid Search
-  - [ ] XGBoost
+  - [x] Grid Search
+  - [x] XGBoost
 
 
 ---
