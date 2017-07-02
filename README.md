@@ -25,9 +25,6 @@
   - [x] Upper Confidence Bound (UCB)
   - [x] Thompson Sampling
 - [x] Natural Language Processing
-- [x] Deep Learning
-  - [x] Artificial Neural Networks (ANN)
-  - [x] Convolutional Neural Networks (CNN)
 - [x] Dimensionality Reduction
   - [x] Principal Component Analysis (PCA)
   - [x] Linear Discriminant Analysis (LDA)
@@ -36,6 +33,10 @@
   - [x] K Fold Cross Validation
   - [x] Grid Search
   - [x] XGBoost
+- [x] Deep Learning
+  - [x] Artificial Neural Networks (ANN)
+  - [x] Convolutional Neural Networks (CNN)
+  - [ ] Recurrent Neural Networks (RNN)
 
 
 ---
