@@ -36,7 +36,7 @@
 - [x] Deep Learning
   - [x] Artificial Neural Networks (ANN)
   - [x] Convolutional Neural Networks (CNN)
-  - [ ] Recurrent Neural Networks (RNN)
+  - [x] Recurrent Neural Networks (RNN)
 
 
 ---
