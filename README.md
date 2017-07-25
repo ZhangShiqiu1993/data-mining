@@ -37,7 +37,7 @@
   - [x] Artificial Neural Networks (ANN)
   - [x] Convolutional Neural Networks (CNN)
   - [x] Recurrent Neural Networks (RNN)
-  - [ ] Self-Organizing Map (SOM)
+  - [x] Self-Organizing Map (SOM)
 
 ---
 *source from [udemy](https://www.udemy.com/) course*
