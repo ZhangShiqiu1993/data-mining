@@ -39,6 +39,8 @@
   - [x] Recurrent Neural Networks (RNN)
 - [ ] Unsupervised Deep Learning
   - [x] Self-Organizing Map (SOM)
+  - [ ] Boltzmann Machines (BM)
+  - [ ] AutoEncoders (AE)
 
 ---
 *source from [udemy](https://www.udemy.com/) course*
