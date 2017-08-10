@@ -39,7 +39,7 @@
   - [x] Recurrent Neural Networks (RNN)
 - [ ] Unsupervised Deep Learning
   - [x] Self-Organizing Map (SOM)
-  - [ ] Boltzmann Machines (BM)
+  - [x] Boltzmann Machines (BM)
   - [ ] AutoEncoders (AE)
 
 ---
