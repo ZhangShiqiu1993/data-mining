@@ -37,10 +37,10 @@
   - [x] Artificial Neural Networks (ANN)
   - [x] Convolutional Neural Networks (CNN)
   - [x] Recurrent Neural Networks (RNN)
-- [ ] Unsupervised Deep Learning
+- [x] Unsupervised Deep Learning
   - [x] Self-Organizing Map (SOM)
   - [x] Boltzmann Machines (BM)
-  - [ ] AutoEncoders (AE)
+  - [x] AutoEncoders (AE)
 
 ---
 *source from [udemy](https://www.udemy.com/) course*
